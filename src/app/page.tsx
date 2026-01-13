@@ -30,7 +30,7 @@ export default function Home() {
 
       {/* Subtle Footer */}
       <footer className="absolute bottom-8 w-full text-center text-slate-600 text-xs tracking-widest uppercase">
-        &copy; {new Date().getFullYear()} Comparizz
+        &copy; {new Date().getFullYear()} Comparizz.com Private Limited
       </footer>
     </main>
   );
